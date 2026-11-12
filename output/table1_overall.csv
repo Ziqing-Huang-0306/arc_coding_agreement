@@ -1,0 +1,4 @@
+metric,estimate,lower_formula,upper_formula,lower_boot,upper_boot
+Agreement rate,0.769,0.732,0.807,0.728,0.804
+Cohen's kappa,0.759,0.72,0.798,0.717,0.795
+Adjusted kappa,0.597,0.531,0.662,0.526,0.657

@@ -1,0 +1,6 @@
+group,n,n_agree,rate,se,lower,upper,grouping
+both high,281,248,0.883,0.019,0.845,0.92,confidence
+other,204,125,0.613,0.034,0.546,0.68,confidence
+2,316,257,0.813,0.022,0.77,0.856,candidate
+3,108,71,0.657,0.046,0.568,0.747,candidate
+4+,61,45,0.738,0.056,0.627,0.848,candidate

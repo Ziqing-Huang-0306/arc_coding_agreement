@@ -1,0 +1,488 @@
+item,for20_primary_1,n_cand_1,decision_1,decision_2,confidence_1,confidence_2,in_cand_1,in_cand_2,agree,demo
+A001,4606 - Distributed Computing and Systems Software,2,0805,0805,high,high,TRUE,TRUE,TRUE,FALSE
+A002,3403 - Macromolecular and Materials Chemistry,2,0303,0303,high,high,TRUE,TRUE,TRUE,FALSE
+A003,3403 - Macromolecular and Materials Chemistry,2,0303,0303,medium,high,TRUE,TRUE,TRUE,FALSE
+A004,"4501 - Aboriginal and Torres Strait Islander Culture, Language and History",2,2005,2005,high,medium,TRUE,TRUE,TRUE,FALSE
+A005,4012 - Fluid Mechanics and Thermal Engineering,2,0903,0903,high,high,TRUE,TRUE,TRUE,FALSE
+A006,3109 - Zoology,2,0608,0608,high,high,TRUE,TRUE,TRUE,FALSE
+A007,4012 - Fluid Mechanics and Thermal Engineering,2,0915,0915,medium,high,TRUE,TRUE,TRUE,FALSE
+A008,3104 - Evolutionary Biology,2,0603,0603,medium,medium,TRUE,TRUE,TRUE,FALSE
+A009,4611 - Machine Learning,2,0801,1702,high,high,TRUE,TRUE,FALSE,FALSE
+A010,4405 - Gender Studies,2,2002,1699,high,medium,TRUE,TRUE,FALSE,FALSE
+A011,3104 - Evolutionary Biology,2,0603,0603,medium,high,TRUE,TRUE,TRUE,FALSE
+A012,4003 - Biomedical Engineering,2,0903,0903,medium,high,TRUE,TRUE,TRUE,FALSE
+A013,4303 - Historical Studies,2,2103,2103,medium,high,TRUE,TRUE,TRUE,FALSE
+A014,3403 - Macromolecular and Materials Chemistry,2,0303,0303,high,medium,TRUE,TRUE,TRUE,FALSE
+A015,3103 - Ecology,2,0603,0603,medium,medium,TRUE,TRUE,TRUE,FALSE
+A016,5204 - Cognitive and Computational Psychology,2,1702,1702,high,high,TRUE,TRUE,TRUE,FALSE
+A017,3403 - Macromolecular and Materials Chemistry,2,0303,0303,high,high,TRUE,TRUE,TRUE,FALSE
+A018,"4007 - Control Engineering, Mechatronics and Robotics",2,0906,0906,medium,medium,TRUE,TRUE,TRUE,FALSE
+A019,3403 - Macromolecular and Materials Chemistry,2,0303,0303,high,high,TRUE,TRUE,TRUE,FALSE
+A020,4206 - Public Health,2,1117,1117,high,high,TRUE,TRUE,TRUE,FALSE
+A021,4605 - Data Management and Data Science,3,0806,0806,high,high,TRUE,TRUE,TRUE,FALSE
+A022,3402 - Inorganic Chemistry,2,0399,0399,high,high,TRUE,TRUE,TRUE,FALSE
+A023,3104 - Evolutionary Biology,2,0603,0603,high,high,TRUE,TRUE,TRUE,FALSE
+A024,4303 - Historical Studies,2,1602,1602,medium,medium,TRUE,TRUE,TRUE,FALSE
+A025,4605 - Data Management and Data Science,3,0801,0801,medium,medium,TRUE,TRUE,TRUE,FALSE
+A026,5202 - Biological Psychology,3,1702,1701,medium,medium,TRUE,TRUE,FALSE,FALSE
+A027,3403 - Macromolecular and Materials Chemistry,2,0303,0303,high,high,TRUE,TRUE,TRUE,FALSE
+A028,"3509 - Transportation, Logistics and Supply Chains",2,1503,1507,medium,high,TRUE,TRUE,FALSE,FALSE
+A029,"4009 - Electronics, Sensors and Digital Hardware",2,0906,0906,high,high,TRUE,TRUE,TRUE,FALSE
+A030,4901 - Applied Mathematics,2,0102,0102,medium,high,TRUE,TRUE,TRUE,FALSE
+A031,5202 - Biological Psychology,3,1702,1702,high,high,TRUE,TRUE,TRUE,FALSE
+A032,5204 - Cognitive and Computational Psychology,2,1701,1701,medium,high,TRUE,TRUE,TRUE,FALSE
+A033,4605 - Data Management and Data Science,4,0806,0801,medium,medium,TRUE,TRUE,FALSE,FALSE
+A034,"4007 - Control Engineering, Mechatronics and Robotics",3,0906,0906,medium,high,TRUE,TRUE,TRUE,FALSE
+A035,"4007 - Control Engineering, Mechatronics and Robotics",2,0910,0913,high,high,TRUE,TRUE,FALSE,FALSE
+A036,3103 - Ecology,2,0602,0602,medium,high,TRUE,TRUE,TRUE,FALSE
+A037,4101 - Climate Change Impacts and Adaptation,2,0501,0503,high,high,TRUE,TRUE,FALSE,FALSE
+A038,4406 - Human Geography,2,1604,1604,medium,high,TRUE,TRUE,TRUE,FALSE
+A039,4206 - Public Health,2,1603,1117,high,medium,TRUE,TRUE,FALSE,FALSE
+A040,5204 - Cognitive and Computational Psychology,3,1702,1701,medium,medium,TRUE,TRUE,FALSE,FALSE
+A041,4605 - Data Management and Data Science,6,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A042,4604 - Cybersecurity and Privacy,2,0803,0803,medium,medium,TRUE,TRUE,TRUE,FALSE
+A043,4605 - Data Management and Data Science,6,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A044,4605 - Data Management and Data Science,3,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A045,4006 - Communications Engineering,2,1005,1005,medium,high,TRUE,TRUE,TRUE,FALSE
+A046,3104 - Evolutionary Biology,2,0603,0603,high,high,TRUE,TRUE,TRUE,FALSE
+A047,4602 - Artificial Intelligence,2,0802,0802,high,medium,TRUE,TRUE,TRUE,FALSE
+A048,4605 - Data Management and Data Science,5,0803,0806,medium,high,TRUE,TRUE,FALSE,FALSE
+A049,4405 - Gender Studies,2,1699,1699,high,medium,TRUE,TRUE,TRUE,FALSE
+A050,"4007 - Control Engineering, Mechatronics and Robotics",2,0913,0913,medium,medium,TRUE,TRUE,TRUE,FALSE
+A051,3007 - Forestry Sciences,2,0705,0705,high,high,TRUE,TRUE,TRUE,FALSE
+A052,4604 - Cybersecurity and Privacy,2,0803,0803,high,high,TRUE,TRUE,TRUE,FALSE
+A053,3104 - Evolutionary Biology,2,0602,0602,high,high,TRUE,TRUE,TRUE,FALSE
+A054,4611 - Machine Learning,2,1702,1702,high,high,TRUE,TRUE,TRUE,FALSE
+A055,4605 - Data Management and Data Science,6,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A056,"4505 - Aboriginal and Torres Strait Islander Peoples, Society and Community",2,1801,1801,high,high,TRUE,TRUE,TRUE,FALSE
+A057,4804 - Law In Context,2,1801,1801,medium,high,TRUE,TRUE,TRUE,FALSE
+A058,"4501 - Aboriginal and Torres Strait Islander Culture, Language and History",3,2102,2102,high,high,TRUE,TRUE,TRUE,FALSE
+A059,4605 - Data Management and Data Science,3,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A060,4605 - Data Management and Data Science,3,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A061,4610 - Library and Information Studies,2,2102,2102,high,high,TRUE,TRUE,TRUE,FALSE
+A062,4012 - Fluid Mechanics and Thermal Engineering,2,0915,0915,high,high,TRUE,TRUE,TRUE,FALSE
+A063,3402 - Inorganic Chemistry,2,0399,0302,high,medium,TRUE,TRUE,FALSE,FALSE
+A064,3403 - Macromolecular and Materials Chemistry,2,0303,0303,high,high,TRUE,TRUE,TRUE,FALSE
+A065,3103 - Ecology,2,0602,0602,high,high,TRUE,TRUE,TRUE,FALSE
+A066,4004 - Chemical Engineering,2,0904,0904,high,high,TRUE,TRUE,TRUE,FALSE
+A067,5202 - Biological Psychology,3,1109,1109,medium,medium,TRUE,TRUE,TRUE,FALSE
+A068,4206 - Public Health,2,1117,1117,high,medium,TRUE,TRUE,TRUE,FALSE
+A069,3402 - Inorganic Chemistry,2,0302,0303,medium,high,TRUE,TRUE,FALSE,FALSE
+A070,4101 - Climate Change Impacts and Adaptation,2,0502,0502,high,medium,TRUE,TRUE,TRUE,FALSE
+A071,5204 - Cognitive and Computational Psychology,3,1702,1702,high,high,TRUE,TRUE,TRUE,FALSE
+A072,3403 - Macromolecular and Materials Chemistry,2,0302,0303,high,medium,TRUE,TRUE,FALSE,FALSE
+A073,3104 - Evolutionary Biology,2,0603,0603,high,high,TRUE,TRUE,TRUE,FALSE
+A074,"4501 - Aboriginal and Torres Strait Islander Culture, Language and History",3,2102,2102,high,high,TRUE,TRUE,TRUE,FALSE
+A075,5204 - Cognitive and Computational Psychology,3,1702,1702,high,high,TRUE,TRUE,TRUE,FALSE
+A076,5202 - Biological Psychology,3,1109,1109,medium,high,TRUE,TRUE,TRUE,FALSE
+A077,4605 - Data Management and Data Science,5,0806,0806,medium,high,TRUE,TRUE,TRUE,FALSE
+A078,3403 - Macromolecular and Materials Chemistry,2,0302,0303,high,high,TRUE,TRUE,FALSE,FALSE
+A079,4605 - Data Management and Data Science,3,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A080,4506 - Aboriginal and Torres Strait Islander Sciences,2,0604,0604,high,high,TRUE,TRUE,TRUE,FALSE
+A081,3106 - Industrial Biotechnology,2,1007,1007,high,high,TRUE,TRUE,TRUE,FALSE
+A082,3403 - Macromolecular and Materials Chemistry,2,0303,0303,high,medium,TRUE,TRUE,TRUE,FALSE
+A083,3104 - Evolutionary Biology,2,0603,0603,medium,medium,TRUE,TRUE,TRUE,FALSE
+A084,4101 - Climate Change Impacts and Adaptation,2,0502,0502,high,medium,TRUE,TRUE,TRUE,FALSE
+A085,3106 - Industrial Biotechnology,2,1003,1003,high,high,TRUE,TRUE,TRUE,FALSE
+A086,5202 - Biological Psychology,3,1701,1701,high,medium,TRUE,TRUE,TRUE,FALSE
+A087,4605 - Data Management and Data Science,5,0802,0806,medium,medium,TRUE,TRUE,FALSE,FALSE
+A088,3109 - Zoology,2,0606,0606,high,medium,TRUE,TRUE,TRUE,FALSE
+A089,4206 - Public Health,2,1117,1603,high,high,TRUE,TRUE,FALSE,FALSE
+A090,4605 - Data Management and Data Science,5,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A091,3104 - Evolutionary Biology,2,0603,0603,high,high,TRUE,TRUE,TRUE,FALSE
+A092,3403 - Macromolecular and Materials Chemistry,4,0303,0303,high,high,TRUE,TRUE,TRUE,FALSE
+A093,4006 - Communications Engineering,2,0906,0906,high,high,TRUE,TRUE,TRUE,FALSE
+A094,4605 - Data Management and Data Science,5,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A095,4604 - Cybersecurity and Privacy,4,0803,0803,high,high,TRUE,TRUE,TRUE,FALSE
+A096,4006 - Communications Engineering,2,1005,1005,high,high,TRUE,TRUE,TRUE,FALSE
+A097,3103 - Ecology,2,0603,0603,high,high,TRUE,TRUE,TRUE,FALSE
+A098,5202 - Biological Psychology,3,1702,1701,high,medium,TRUE,TRUE,FALSE,FALSE
+A099,5202 - Biological Psychology,3,1702,1702,high,high,TRUE,TRUE,TRUE,FALSE
+A100,4004 - Chemical Engineering,2,0904,0904,high,high,TRUE,TRUE,TRUE,FALSE
+A101,5204 - Cognitive and Computational Psychology,3,1702,1702,high,high,TRUE,TRUE,TRUE,FALSE
+A102,"3002 - Agriculture, Land and Farm Management",3,0701,0701,medium,high,TRUE,TRUE,TRUE,FALSE
+A103,3403 - Macromolecular and Materials Chemistry,2,0303,0303,high,high,TRUE,TRUE,TRUE,FALSE
+A104,4605 - Data Management and Data Science,6,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A105,4003 - Biomedical Engineering,2,1004,1004,medium,medium,TRUE,TRUE,TRUE,FALSE
+A106,5202 - Biological Psychology,3,1702,1702,medium,high,TRUE,TRUE,TRUE,FALSE
+A107,4206 - Public Health,2,1117,1117,high,high,TRUE,TRUE,TRUE,FALSE
+A108,3406 - Physical Chemistry,2,0306,0306,high,high,TRUE,TRUE,TRUE,FALSE
+A109,4605 - Data Management and Data Science,3,0804,0806,high,high,TRUE,TRUE,FALSE,FALSE
+A110,5202 - Biological Psychology,3,1702,1702,medium,high,TRUE,TRUE,TRUE,FALSE
+A111,4605 - Data Management and Data Science,3,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A112,3406 - Physical Chemistry,2,0306,0306,high,high,TRUE,TRUE,TRUE,FALSE
+A113,5202 - Biological Psychology,3,1702,1702,high,medium,TRUE,TRUE,TRUE,FALSE
+A114,3109 - Zoology,2,0606,0606,high,high,TRUE,TRUE,TRUE,FALSE
+A115,3001 - Agricultural Biotechnology,3,0703,0703,high,medium,TRUE,TRUE,TRUE,FALSE
+A116,5204 - Cognitive and Computational Psychology,2,1701,1701,high,high,TRUE,TRUE,TRUE,FALSE
+A117,4701 - Communication and Media Studies,2,2001,1903,medium,high,TRUE,TRUE,FALSE,FALSE
+A118,4006 - Communications Engineering,2,1005,1005,high,high,TRUE,TRUE,TRUE,FALSE
+A119,5202 - Biological Psychology,3,1702,1701,high,high,TRUE,TRUE,FALSE,FALSE
+A120,4004 - Chemical Engineering,2,0904,0904,high,high,TRUE,TRUE,TRUE,FALSE
+A121,4404 - Development Studies,2,1402,1604,high,medium,TRUE,TRUE,FALSE,FALSE
+A122,3402 - Inorganic Chemistry,2,0399,0399,NA,low,TRUE,TRUE,TRUE,FALSE
+A123,4605 - Data Management and Data Science,4,0805,0805,high,high,TRUE,TRUE,TRUE,FALSE
+A124,5202 - Biological Psychology,3,1702,1109,high,high,TRUE,TRUE,FALSE,FALSE
+A125,4613 - Theory of Computation,3,0802,0802,high,high,TRUE,TRUE,TRUE,FALSE
+A126,4103 - Environmental Biotechnology,2,1002,1002,high,high,TRUE,TRUE,TRUE,FALSE
+A127,5202 - Biological Psychology,3,1109,1701,high,medium,TRUE,TRUE,FALSE,FALSE
+A128,3403 - Macromolecular and Materials Chemistry,2,0303,0303,high,high,TRUE,TRUE,TRUE,FALSE
+A129,4605 - Data Management and Data Science,6,0802,0806,high,medium,TRUE,TRUE,FALSE,FALSE
+A130,3701 - Atmospheric Sciences,2,0401,0399,high,medium,TRUE,TRUE,FALSE,FALSE
+A131,3103 - Ecology,2,0602,0602,high,medium,TRUE,TRUE,TRUE,FALSE
+A132,3006 - Food Sciences,2,0908,0908,high,high,TRUE,TRUE,TRUE,FALSE
+A133,4004 - Chemical Engineering,2,0904,0904,high,high,TRUE,TRUE,TRUE,FALSE
+A134,3104 - Evolutionary Biology,2,0603,0602,high,medium,TRUE,TRUE,FALSE,FALSE
+A135,3104 - Evolutionary Biology,2,0603,0603,high,high,TRUE,TRUE,TRUE,FALSE
+A136,4206 - Public Health,3,1117,1117,high,high,TRUE,TRUE,TRUE,FALSE
+A137,4605 - Data Management and Data Science,3,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A138,3403 - Macromolecular and Materials Chemistry,2,0303,0303,high,high,TRUE,TRUE,TRUE,FALSE
+A139,4605 - Data Management and Data Science,3,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A140,4605 - Data Management and Data Science,3,0806,0801,medium,medium,TRUE,TRUE,FALSE,FALSE
+A141,4604 - Cybersecurity and Privacy,4,0803,0803,high,high,TRUE,TRUE,TRUE,FALSE
+A142,4206 - Public Health,2,1117,1117,high,high,TRUE,TRUE,TRUE,FALSE
+A143,5202 - Biological Psychology,3,1109,1702,high,medium,TRUE,TRUE,FALSE,FALSE
+A144,5202 - Biological Psychology,3,1109,1701,high,medium,TRUE,TRUE,FALSE,FALSE
+A145,4604 - Cybersecurity and Privacy,2,0803,0804,high,high,TRUE,TRUE,FALSE,FALSE
+A146,4006 - Communications Engineering,2,0906,0906,high,medium,TRUE,TRUE,TRUE,FALSE
+A147,4604 - Cybersecurity and Privacy,4,0805,0805,high,high,TRUE,TRUE,TRUE,FALSE
+A148,5202 - Biological Psychology,3,1109,1701,high,medium,TRUE,TRUE,FALSE,FALSE
+A149,"4505 - Aboriginal and Torres Strait Islander Peoples, Society and Community",2,1602,1602,medium,medium,TRUE,TRUE,TRUE,FALSE
+A150,3104 - Evolutionary Biology,2,0603,0603,high,high,TRUE,TRUE,TRUE,FALSE
+A151,4605 - Data Management and Data Science,6,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A152,3103 - Ecology,2,0602,0602,high,high,TRUE,TRUE,TRUE,FALSE
+A153,4404 - Development Studies,2,1402,1402,high,medium,TRUE,TRUE,TRUE,FALSE
+A154,3106 - Industrial Biotechnology,2,1003,1007,medium,high,TRUE,TRUE,FALSE,FALSE
+A155,5202 - Biological Psychology,3,1109,1701,high,medium,TRUE,TRUE,FALSE,FALSE
+A156,4605 - Data Management and Data Science,4,0806,0801,medium,high,TRUE,TRUE,FALSE,FALSE
+A157,4705 - Literary Studies,2,2002,2002,high,medium,TRUE,TRUE,TRUE,FALSE
+A158,4605 - Data Management and Data Science,5,0801,0801,medium,high,TRUE,TRUE,TRUE,FALSE
+A159,5202 - Biological Psychology,3,1109,1109,medium,medium,TRUE,TRUE,TRUE,FALSE
+A160,3402 - Inorganic Chemistry,2,0399,0399,high,medium,TRUE,TRUE,TRUE,FALSE
+A161,4605 - Data Management and Data Science,2,0806,0801,medium,high,TRUE,TRUE,FALSE,FALSE
+A162,4604 - Cybersecurity and Privacy,4,0803,0803,high,high,TRUE,TRUE,TRUE,FALSE
+A163,4605 - Data Management and Data Science,3,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A164,4405 - Gender Studies,2,2002,1699,high,medium,TRUE,TRUE,FALSE,FALSE
+A165,4405 - Gender Studies,2,2002,2002,high,high,TRUE,TRUE,TRUE,FALSE
+A166,"4009 - Electronics, Sensors and Digital Hardware",2,0906,0906,high,high,TRUE,TRUE,TRUE,TRUE
+A167,3104 - Evolutionary Biology,2,0602,0602,high,high,TRUE,TRUE,TRUE,FALSE
+A168,4803 - International and Comparative Law,2,1801,1801,high,high,TRUE,TRUE,TRUE,FALSE
+A169,3403 - Macromolecular and Materials Chemistry,2,0303,0303,high,high,TRUE,TRUE,TRUE,FALSE
+A170,4605 - Data Management and Data Science,6,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A171,3403 - Macromolecular and Materials Chemistry,2,0303,0303,high,high,TRUE,TRUE,TRUE,FALSE
+A172,5204 - Cognitive and Computational Psychology,3,1702,1702,high,high,TRUE,TRUE,TRUE,FALSE
+A173,3903 - Education Systems,2,1303,1303,high,high,TRUE,TRUE,TRUE,FALSE
+A174,5204 - Cognitive and Computational Psychology,3,1702,1701,high,medium,TRUE,TRUE,FALSE,FALSE
+A175,3402 - Inorganic Chemistry,2,0302,0303,medium,high,TRUE,TRUE,FALSE,FALSE
+A176,4405 - Gender Studies,2,2002,1699,high,high,TRUE,TRUE,FALSE,FALSE
+A177,3103 - Ecology,2,0603,0603,high,high,TRUE,TRUE,TRUE,FALSE
+A178,3104 - Evolutionary Biology,2,0603,0603,high,medium,TRUE,TRUE,TRUE,FALSE
+A179,5204 - Cognitive and Computational Psychology,3,1702,1702,high,high,TRUE,TRUE,TRUE,FALSE
+A180,3403 - Macromolecular and Materials Chemistry,2,0303,0303,medium,high,TRUE,TRUE,TRUE,FALSE
+A181,3103 - Ecology,2,0602,0602,high,high,TRUE,TRUE,TRUE,FALSE
+A182,4604 - Cybersecurity and Privacy,4,0803,0803,high,high,TRUE,TRUE,TRUE,FALSE
+A183,4206 - Public Health,2,1117,1117,high,high,TRUE,TRUE,TRUE,FALSE
+A184,3402 - Inorganic Chemistry,2,0399,0399,medium,high,TRUE,TRUE,TRUE,FALSE
+A185,3103 - Ecology,2,0603,0602,high,medium,TRUE,TRUE,FALSE,FALSE
+A186,4012 - Fluid Mechanics and Thermal Engineering,2,0203,0915,medium,medium,TRUE,TRUE,FALSE,FALSE
+A187,4605 - Data Management and Data Science,5,0802,0806,high,high,TRUE,TRUE,FALSE,FALSE
+A188,4004 - Chemical Engineering,2,0904,0904,medium,high,TRUE,TRUE,TRUE,FALSE
+A189,5204 - Cognitive and Computational Psychology,3,1702,1702,high,high,TRUE,TRUE,TRUE,FALSE
+A190,"4501 - Aboriginal and Torres Strait Islander Culture, Language and History",2,2101,2101,high,high,TRUE,TRUE,TRUE,FALSE
+A191,5202 - Biological Psychology,3,1109,1701,high,medium,TRUE,TRUE,FALSE,FALSE
+A192,4404 - Development Studies,2,1604,1604,medium,high,TRUE,TRUE,TRUE,FALSE
+A193,4605 - Data Management and Data Science,3,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A194,4004 - Chemical Engineering,2,0904,0904,high,high,TRUE,TRUE,TRUE,FALSE
+A195,3402 - Inorganic Chemistry,2,0399,0399,high,high,TRUE,TRUE,TRUE,FALSE
+A196,5003 - Philosophy,2,2202,2202,high,high,TRUE,TRUE,TRUE,FALSE
+A197,3403 - Macromolecular and Materials Chemistry,2,0303,0303,high,high,TRUE,TRUE,TRUE,FALSE
+A198,"4501 - Aboriginal and Torres Strait Islander Culture, Language and History",2,2102,2102,high,medium,TRUE,TRUE,TRUE,FALSE
+A199,3109 - Zoology,2,0606,0606,high,high,TRUE,TRUE,TRUE,FALSE
+A200,5204 - Cognitive and Computational Psychology,2,1702,1701,medium,high,TRUE,TRUE,FALSE,FALSE
+A201,3403 - Macromolecular and Materials Chemistry,2,0303,0303,high,high,TRUE,TRUE,TRUE,FALSE
+A202,4705 - Literary Studies,2,2005,2005,medium,medium,TRUE,TRUE,TRUE,FALSE
+A203,4611 - Machine Learning,2,0801,1702,medium,high,TRUE,TRUE,FALSE,FALSE
+A204,3403 - Macromolecular and Materials Chemistry,2,0303,0303,high,medium,TRUE,TRUE,TRUE,FALSE
+A205,3403 - Macromolecular and Materials Chemistry,2,0303,0303,high,high,TRUE,TRUE,TRUE,FALSE
+A206,5204 - Cognitive and Computational Psychology,3,1702,1701,medium,high,TRUE,TRUE,FALSE,FALSE
+A207,4206 - Public Health,2,1117,1117,high,high,TRUE,TRUE,TRUE,FALSE
+A208,4003 - Biomedical Engineering,2,1004,1004,high,medium,TRUE,TRUE,TRUE,FALSE
+A209,4605 - Data Management and Data Science,3,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A210,3103 - Ecology,2,0602,0602,high,high,TRUE,TRUE,TRUE,FALSE
+A211,4610 - Library and Information Studies,2,0807,0807,high,high,TRUE,TRUE,TRUE,FALSE
+A212,4018 - Nanotechnology,2,1007,1007,medium,high,TRUE,TRUE,TRUE,FALSE
+A213,3402 - Inorganic Chemistry,2,0306,0306,medium,high,TRUE,TRUE,TRUE,FALSE
+A214,3403 - Macromolecular and Materials Chemistry,2,0303,0303,medium,high,TRUE,TRUE,TRUE,FALSE
+A215,4604 - Cybersecurity and Privacy,4,0805,0805,medium,medium,TRUE,TRUE,TRUE,FALSE
+A216,4605 - Data Management and Data Science,6,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A217,4605 - Data Management and Data Science,5,0802,0802,high,medium,TRUE,TRUE,TRUE,FALSE
+A218,5204 - Cognitive and Computational Psychology,2,1702,1702,high,high,TRUE,TRUE,TRUE,FALSE
+A219,3004 - Crop and Pasture Production,3,0799,0799,high,high,TRUE,TRUE,TRUE,FALSE
+A220,4605 - Data Management and Data Science,4,0806,0806,high,medium,TRUE,TRUE,TRUE,FALSE
+A221,4012 - Fluid Mechanics and Thermal Engineering,2,0404,0404,medium,medium,TRUE,TRUE,TRUE,FALSE
+A222,5202 - Biological Psychology,3,1109,1701,high,medium,TRUE,TRUE,FALSE,FALSE
+A223,3403 - Macromolecular and Materials Chemistry,2,0303,0303,high,high,TRUE,TRUE,TRUE,FALSE
+A224,4701 - Communication and Media Studies,2,1903,1903,medium,high,TRUE,TRUE,TRUE,FALSE
+A225,4004 - Chemical Engineering,2,0904,0904,high,high,TRUE,TRUE,TRUE,FALSE
+A226,4004 - Chemical Engineering,2,0904,0904,high,high,TRUE,TRUE,TRUE,FALSE
+A227,4611 - Machine Learning,2,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A228,3007 - Forestry Sciences,2,0705,0705,medium,medium,TRUE,TRUE,TRUE,FALSE
+A229,4405 - Gender Studies,3,1601,1699,medium,high,TRUE,TRUE,FALSE,FALSE
+A230,"4007 - Control Engineering, Mechatronics and Robotics",2,0906,0906,high,medium,TRUE,TRUE,TRUE,FALSE
+A231,5202 - Biological Psychology,3,1109,1701,high,medium,TRUE,TRUE,FALSE,FALSE
+A232,5204 - Cognitive and Computational Psychology,2,1303,1303,medium,medium,TRUE,TRUE,TRUE,FALSE
+A233,4604 - Cybersecurity and Privacy,4,0803,0803,high,high,TRUE,TRUE,TRUE,FALSE
+A234,3402 - Inorganic Chemistry,2,0302,0302,high,medium,TRUE,TRUE,TRUE,FALSE
+A235,4605 - Data Management and Data Science,5,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A236,3406 - Physical Chemistry,2,0306,0307,high,high,TRUE,TRUE,FALSE,FALSE
+A237,3402 - Inorganic Chemistry,2,0302,0302,high,high,TRUE,TRUE,TRUE,FALSE
+A238,5202 - Biological Psychology,3,1109,1702,high,high,TRUE,TRUE,FALSE,FALSE
+A239,"4501 - Aboriginal and Torres Strait Islander Culture, Language and History",2,2103,2103,medium,medium,TRUE,TRUE,TRUE,FALSE
+A240,4605 - Data Management and Data Science,2,0806,0806,high,low,TRUE,TRUE,TRUE,FALSE
+A241,3402 - Inorganic Chemistry,2,0302,0399,high,low,TRUE,TRUE,FALSE,FALSE
+A242,5204 - Cognitive and Computational Psychology,3,1702,1702,high,high,TRUE,TRUE,TRUE,FALSE
+A243,"4501 - Aboriginal and Torres Strait Islander Culture, Language and History",2,2002,2002,medium,medium,TRUE,TRUE,TRUE,FALSE
+A244,5204 - Cognitive and Computational Psychology,3,1701,1701,high,high,TRUE,TRUE,TRUE,FALSE
+A245,4605 - Data Management and Data Science,2,0801,0801,high,medium,TRUE,TRUE,TRUE,FALSE
+A246,5204 - Cognitive and Computational Psychology,3,1702,1702,high,high,TRUE,TRUE,TRUE,FALSE
+A247,3007 - Forestry Sciences,2,0705,0705,high,high,TRUE,TRUE,TRUE,FALSE
+A248,4004 - Chemical Engineering,2,0904,0904,high,high,TRUE,TRUE,TRUE,FALSE
+A249,4101 - Climate Change Impacts and Adaptation,2,0502,0501,medium,medium,TRUE,TRUE,FALSE,FALSE
+A250,4605 - Data Management and Data Science,3,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A251,4012 - Fluid Mechanics and Thermal Engineering,2,0203,0203,high,medium,TRUE,TRUE,TRUE,FALSE
+A252,3403 - Macromolecular and Materials Chemistry,4,0204,0303,medium,high,TRUE,TRUE,FALSE,FALSE
+A253,5202 - Biological Psychology,3,1109,1701,high,medium,TRUE,TRUE,FALSE,FALSE
+A254,4608 - Human-Centred Computing,2,0801,0806,high,medium,TRUE,TRUE,FALSE,FALSE
+A255,5204 - Cognitive and Computational Psychology,3,1702,1702,high,high,TRUE,TRUE,TRUE,FALSE
+A256,5202 - Biological Psychology,3,1109,1109,high,high,TRUE,TRUE,TRUE,FALSE
+A257,4605 - Data Management and Data Science,6,0801,0806,high,medium,TRUE,TRUE,FALSE,FALSE
+A258,4605 - Data Management and Data Science,2,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A259,3403 - Macromolecular and Materials Chemistry,4,0306,0306,high,high,TRUE,TRUE,TRUE,FALSE
+A260,"4501 - Aboriginal and Torres Strait Islander Culture, Language and History",2,1903,1903,high,high,TRUE,TRUE,TRUE,FALSE
+A261,5204 - Cognitive and Computational Psychology,2,1701,1701,high,high,TRUE,TRUE,TRUE,FALSE
+A262,"3902 - Education Policy, Sociology and Philosophy",2,1605,1608,medium,high,TRUE,TRUE,FALSE,FALSE
+A263,4604 - Cybersecurity and Privacy,4,0803,0804,high,medium,TRUE,TRUE,FALSE,FALSE
+A264,4702 - Cultural Studies,2,1605,2002,high,medium,TRUE,TRUE,FALSE,FALSE
+A265,3104 - Evolutionary Biology,2,0603,0603,medium,medium,TRUE,TRUE,TRUE,FALSE
+A266,5003 - Philosophy,2,2203,2202,medium,medium,TRUE,TRUE,FALSE,FALSE
+A267,4004 - Chemical Engineering,2,0904,0904,high,high,TRUE,TRUE,TRUE,FALSE
+A268,3109 - Zoology,2,0608,0608,high,high,TRUE,TRUE,TRUE,FALSE
+A269,3104 - Evolutionary Biology,2,0603,0603,high,high,TRUE,TRUE,TRUE,FALSE
+A270,4604 - Cybersecurity and Privacy,4,0803,0803,high,high,TRUE,TRUE,TRUE,FALSE
+A271,5204 - Cognitive and Computational Psychology,3,1701,1701,medium,high,TRUE,TRUE,TRUE,FALSE
+A272,5204 - Cognitive and Computational Psychology,3,1701,1701,medium,high,TRUE,TRUE,TRUE,FALSE
+A273,4604 - Cybersecurity and Privacy,2,0803,0804,medium,medium,TRUE,TRUE,FALSE,FALSE
+A274,3403 - Macromolecular and Materials Chemistry,2,0302,0302,high,medium,TRUE,TRUE,TRUE,FALSE
+A275,5202 - Biological Psychology,3,1109,1702,high,medium,TRUE,TRUE,FALSE,FALSE
+A276,4610 - Library and Information Studies,2,0807,1503,high,medium,TRUE,TRUE,FALSE,FALSE
+A277,4701 - Communication and Media Studies,2,1903,1903,high,high,TRUE,TRUE,TRUE,FALSE
+A278,"4007 - Control Engineering, Mechatronics and Robotics",2,0906,0906,high,high,TRUE,TRUE,TRUE,FALSE
+A279,"4501 - Aboriginal and Torres Strait Islander Culture, Language and History",3,2002,1905,high,medium,TRUE,TRUE,FALSE,FALSE
+A280,4206 - Public Health,2,1117,1117,high,high,TRUE,TRUE,TRUE,FALSE
+A281,3104 - Evolutionary Biology,2,0603,0603,high,high,TRUE,TRUE,TRUE,FALSE
+A282,4004 - Chemical Engineering,2,0905,0905,medium,medium,TRUE,TRUE,TRUE,FALSE
+A283,5204 - Cognitive and Computational Psychology,2,1701,1701,high,high,TRUE,TRUE,TRUE,FALSE
+A284,"4505 - Aboriginal and Torres Strait Islander Peoples, Society and Community",2,1801,1699,high,medium,TRUE,TRUE,FALSE,FALSE
+A285,4611 - Machine Learning,3,0801,1702,high,high,TRUE,TRUE,FALSE,FALSE
+A286,4012 - Fluid Mechanics and Thermal Engineering,2,0915,0915,high,high,TRUE,TRUE,TRUE,FALSE
+A287,4206 - Public Health,4,1106,1106,high,high,TRUE,TRUE,TRUE,FALSE
+A288,4605 - Data Management and Data Science,3,0801,0806,high,medium,TRUE,TRUE,FALSE,FALSE
+A289,3402 - Inorganic Chemistry,2,0302,0399,high,medium,TRUE,TRUE,FALSE,FALSE
+A290,4613 - Theory of Computation,2,0802,0802,high,high,TRUE,TRUE,TRUE,FALSE
+A291,4006 - Communications Engineering,2,0906,1005,medium,high,TRUE,TRUE,FALSE,FALSE
+A292,4203 - Health Services and Systems,2,1117,1117,high,high,TRUE,TRUE,TRUE,FALSE
+A293,4206 - Public Health,2,1117,1117,high,high,TRUE,TRUE,TRUE,FALSE
+A294,4012 - Fluid Mechanics and Thermal Engineering,2,0203,0203,medium,medium,TRUE,TRUE,TRUE,FALSE
+A295,4012 - Fluid Mechanics and Thermal Engineering,3,0404,0915,medium,medium,TRUE,TRUE,FALSE,FALSE
+A296,4605 - Data Management and Data Science,5,0801,0806,medium,medium,TRUE,TRUE,FALSE,FALSE
+A297,3403 - Macromolecular and Materials Chemistry,2,0303,0303,medium,high,TRUE,TRUE,TRUE,FALSE
+A298,5204 - Cognitive and Computational Psychology,2,1701,1701,high,low,TRUE,TRUE,TRUE,FALSE
+A299,5204 - Cognitive and Computational Psychology,3,1702,1702,high,high,TRUE,TRUE,TRUE,FALSE
+A300,3103 - Ecology,2,0602,0602,high,high,TRUE,TRUE,TRUE,FALSE
+A301,3109 - Zoology,2,0606,0606,high,high,TRUE,TRUE,TRUE,FALSE
+A302,3103 - Ecology,2,0602,0602,medium,high,TRUE,TRUE,TRUE,FALSE
+A303,3206 - Medical Biotechnology,2,1004,1007,high,low,TRUE,TRUE,FALSE,FALSE
+A304,4608 - Human-Centred Computing,2,0806,0806,high,high,TRUE,TRUE,TRUE,FALSE
+A305,4603 - Computer Vision and Multimedia Computation,2,0801,0801,medium,high,TRUE,TRUE,TRUE,FALSE
+A306,"4501 - Aboriginal and Torres Strait Islander Culture, Language and History",2,2101,2102,high,high,TRUE,TRUE,FALSE,FALSE
+A307,4004 - Chemical Engineering,2,0904,0904,high,high,TRUE,TRUE,TRUE,FALSE
+A308,3403 - Macromolecular and Materials Chemistry,4,0302,0303,medium,medium,TRUE,TRUE,FALSE,FALSE
+A309,"5102 - Atomic, Molecular and Optical Physics",2,0202,0202,high,high,TRUE,TRUE,TRUE,FALSE
+A310,4613 - Theory of Computation,2,0802,0802,high,high,TRUE,TRUE,TRUE,FALSE
+A311,4012 - Fluid Mechanics and Thermal Engineering,2,0915,0915,high,high,TRUE,TRUE,TRUE,FALSE
+A312,"4519 - Other Indigenous Data, Methodologies and Global Indigenous Studies",2,1199,1199,medium,low,TRUE,TRUE,TRUE,FALSE
+A313,3403 - Macromolecular and Materials Chemistry,2,0303,0303,medium,high,TRUE,TRUE,TRUE,FALSE
+A314,4012 - Fluid Mechanics and Thermal Engineering,2,0404,0404,high,high,TRUE,TRUE,TRUE,FALSE
+A315,5202 - Biological Psychology,3,1702,1701,medium,medium,TRUE,TRUE,FALSE,FALSE
+A316,3403 - Macromolecular and Materials Chemistry,2,0302,0303,high,high,TRUE,TRUE,FALSE,FALSE
+A317,3001 - Agricultural Biotechnology,4,1001,1001,high,high,TRUE,TRUE,TRUE,FALSE
+A318,3403 - Macromolecular and Materials Chemistry,2,0303,0303,high,high,TRUE,TRUE,TRUE,FALSE
+A319,4605 - Data Management and Data Science,3,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A320,"4501 - Aboriginal and Torres Strait Islander Culture, Language and History",2,2002,0806,high,medium,TRUE,TRUE,FALSE,FALSE
+A321,4613 - Theory of Computation,2,0802,0802,high,high,TRUE,TRUE,TRUE,FALSE
+A322,4605 - Data Management and Data Science,3,0801,0801,medium,high,TRUE,TRUE,TRUE,FALSE
+A323,3109 - Zoology,2,0606,0608,medium,medium,TRUE,TRUE,FALSE,FALSE
+A324,4206 - Public Health,2,1117,1117,high,high,TRUE,TRUE,TRUE,FALSE
+A325,3103 - Ecology,2,0602,0602,high,high,TRUE,TRUE,TRUE,FALSE
+A326,4004 - Chemical Engineering,2,0904,0904,high,high,TRUE,TRUE,TRUE,FALSE
+A327,4604 - Cybersecurity and Privacy,4,0803,0803,medium,high,TRUE,TRUE,TRUE,FALSE
+A328,4012 - Fluid Mechanics and Thermal Engineering,2,0901,0901,high,high,TRUE,TRUE,TRUE,FALSE
+A329,5204 - Cognitive and Computational Psychology,3,1702,1701,high,medium,TRUE,TRUE,FALSE,FALSE
+A330,4603 - Computer Vision and Multimedia Computation,2,0801,0801,medium,high,TRUE,TRUE,TRUE,FALSE
+A331,5202 - Biological Psychology,3,1109,1109,high,medium,TRUE,TRUE,TRUE,FALSE
+A332,5202 - Biological Psychology,3,1109,1109,high,medium,TRUE,TRUE,TRUE,FALSE
+A333,4006 - Communications Engineering,2,0906,1005,medium,high,TRUE,TRUE,FALSE,FALSE
+A334,5204 - Cognitive and Computational Psychology,3,1702,1702,high,high,TRUE,TRUE,TRUE,FALSE
+A335,3403 - Macromolecular and Materials Chemistry,3,0303,0303,high,high,TRUE,TRUE,TRUE,FALSE
+A336,3403 - Macromolecular and Materials Chemistry,4,0303,0303,medium,high,TRUE,TRUE,TRUE,FALSE
+A337,4012 - Fluid Mechanics and Thermal Engineering,2,0915,0915,medium,high,TRUE,TRUE,TRUE,FALSE
+A338,3701 - Atmospheric Sciences,2,0401,0401,high,high,TRUE,TRUE,TRUE,FALSE
+A339,4003 - Biomedical Engineering,2,0903,0903,medium,medium,TRUE,TRUE,TRUE,FALSE
+A340,"4007 - Control Engineering, Mechatronics and Robotics",2,0906,0906,medium,high,TRUE,TRUE,TRUE,FALSE
+A341,5204 - Cognitive and Computational Psychology,3,1702,1701,high,high,TRUE,TRUE,FALSE,FALSE
+A342,3104 - Evolutionary Biology,2,0603,0603,high,medium,TRUE,TRUE,TRUE,FALSE
+A343,4004 - Chemical Engineering,2,0904,0904,medium,high,TRUE,TRUE,TRUE,FALSE
+A344,4602 - Artificial Intelligence,2,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A345,5202 - Biological Psychology,3,1109,1109,high,high,TRUE,TRUE,TRUE,FALSE
+A346,4901 - Applied Mathematics,2,0102,0102,medium,high,TRUE,TRUE,TRUE,FALSE
+A347,4605 - Data Management and Data Science,5,0801,0801,high,medium,TRUE,TRUE,TRUE,FALSE
+A348,5003 - Philosophy,2,2202,2202,high,high,TRUE,TRUE,TRUE,FALSE
+A349,4101 - Climate Change Impacts and Adaptation,2,0502,0502,high,medium,TRUE,TRUE,TRUE,FALSE
+A350,4004 - Chemical Engineering,2,0905,0905,medium,medium,TRUE,TRUE,TRUE,FALSE
+A351,5202 - Biological Psychology,3,1109,1702,high,medium,TRUE,TRUE,FALSE,FALSE
+A352,4605 - Data Management and Data Science,3,0801,0801,high,medium,TRUE,TRUE,TRUE,FALSE
+A353,4605 - Data Management and Data Science,3,0806,0801,high,medium,TRUE,TRUE,FALSE,FALSE
+A354,3403 - Macromolecular and Materials Chemistry,2,0302,0303,high,high,TRUE,TRUE,FALSE,FALSE
+A355,3103 - Ecology,2,0602,0602,high,high,TRUE,TRUE,TRUE,FALSE
+A356,4604 - Cybersecurity and Privacy,4,0803,0803,high,high,TRUE,TRUE,TRUE,FALSE
+A357,"3902 - Education Policy, Sociology and Philosophy",2,1605,1608,high,medium,TRUE,TRUE,FALSE,FALSE
+A358,3402 - Inorganic Chemistry,2,0302,0302,high,high,TRUE,TRUE,TRUE,FALSE
+A359,4504 - Aboriginal and Torres Strait Islander Health and Wellbeing,3,1117,1117,high,high,TRUE,TRUE,TRUE,FALSE
+A360,4611 - Machine Learning,3,0801,1702,high,medium,TRUE,TRUE,FALSE,FALSE
+A361,4206 - Public Health,3,1117,1117,high,high,TRUE,TRUE,TRUE,FALSE
+A362,"4501 - Aboriginal and Torres Strait Islander Culture, Language and History",3,2101,2101,high,high,TRUE,TRUE,TRUE,FALSE
+A363,4606 - Distributed Computing and Systems Software,2,0805,0805,high,high,TRUE,TRUE,TRUE,FALSE
+A364,5202 - Biological Psychology,3,1702,1702,high,medium,TRUE,TRUE,TRUE,FALSE
+A365,4605 - Data Management and Data Science,6,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A366,"4009 - Electronics, Sensors and Digital Hardware",2,1005,1005,high,high,TRUE,TRUE,TRUE,FALSE
+A367,4006 - Communications Engineering,2,1005,1005,high,high,TRUE,TRUE,TRUE,FALSE
+A368,4406 - Human Geography,2,1604,1604,high,high,TRUE,TRUE,TRUE,FALSE
+A369,3103 - Ecology,2,0603,0603,high,medium,TRUE,TRUE,TRUE,FALSE
+A370,4206 - Public Health,2,1117,1117,high,high,TRUE,TRUE,TRUE,FALSE
+A371,3406 - Physical Chemistry,2,0306,0306,high,medium,TRUE,TRUE,TRUE,FALSE
+A372,4504 - Aboriginal and Torres Strait Islander Health and Wellbeing,2,1117,1110,high,high,TRUE,TRUE,FALSE,FALSE
+A373,4303 - Historical Studies,2,2103,2103,high,high,TRUE,TRUE,TRUE,FALSE
+A374,5204 - Cognitive and Computational Psychology,2,1702,1702,high,high,TRUE,TRUE,TRUE,FALSE
+A375,4612 - Software Engineering,2,0803,0803,high,high,TRUE,TRUE,TRUE,FALSE
+A376,4605 - Data Management and Data Science,6,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A377,4006 - Communications Engineering,2,0906,0906,high,medium,TRUE,TRUE,TRUE,FALSE
+A378,4604 - Cybersecurity and Privacy,2,0804,0804,high,high,TRUE,TRUE,TRUE,FALSE
+A379,4012 - Fluid Mechanics and Thermal Engineering,3,0915,0901,high,medium,TRUE,TRUE,FALSE,FALSE
+A380,"4505 - Aboriginal and Torres Strait Islander Peoples, Society and Community",2,1699,1699,high,high,TRUE,TRUE,TRUE,FALSE
+A381,"4505 - Aboriginal and Torres Strait Islander Peoples, Society and Community",3,1605,1605,high,high,TRUE,TRUE,TRUE,FALSE
+A382,"4007 - Control Engineering, Mechatronics and Robotics",2,0906,0906,high,medium,TRUE,TRUE,TRUE,FALSE
+A383,4605 - Data Management and Data Science,3,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A384,4603 - Computer Vision and Multimedia Computation,2,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A385,4004 - Chemical Engineering,2,0904,0904,high,medium,TRUE,TRUE,TRUE,FALSE
+A386,3403 - Macromolecular and Materials Chemistry,2,0306,0306,high,medium,TRUE,TRUE,TRUE,FALSE
+A387,3903 - Education Systems,2,1303,1303,high,high,TRUE,TRUE,TRUE,FALSE
+A388,"5102 - Atomic, Molecular and Optical Physics",2,0202,0202,high,medium,TRUE,TRUE,TRUE,FALSE
+A389,5202 - Biological Psychology,3,1109,1109,high,medium,TRUE,TRUE,TRUE,FALSE
+A390,3104 - Evolutionary Biology,2,0603,0603,high,high,TRUE,TRUE,TRUE,FALSE
+A391,3106 - Industrial Biotechnology,2,1003,1003,high,high,TRUE,TRUE,TRUE,FALSE
+A392,3202 - Clinical Sciences,2,1103,1103,high,high,TRUE,TRUE,TRUE,FALSE
+A393,"4009 - Electronics, Sensors and Digital Hardware",2,0906,0906,high,high,TRUE,TRUE,TRUE,FALSE
+A394,4604 - Cybersecurity and Privacy,4,0803,0803,high,high,TRUE,TRUE,TRUE,FALSE
+A395,4608 - Human-Centred Computing,2,0801,0806,high,high,TRUE,TRUE,FALSE,FALSE
+A396,4605 - Data Management and Data Science,5,0801,0806,high,high,FALSE,TRUE,FALSE,FALSE
+A397,3403 - Macromolecular and Materials Chemistry,2,0302,0303,high,high,TRUE,TRUE,FALSE,FALSE
+A398,3103 - Ecology,2,0602,0602,high,high,TRUE,TRUE,TRUE,FALSE
+A399,"4501 - Aboriginal and Torres Strait Islander Culture, Language and History",2,2103,2103,high,high,TRUE,TRUE,TRUE,FALSE
+A400,4604 - Cybersecurity and Privacy,4,0804,0803,high,high,TRUE,TRUE,FALSE,FALSE
+A401,4611 - Machine Learning,3,1702,1702,high,high,TRUE,TRUE,TRUE,FALSE
+A402,3701 - Atmospheric Sciences,2,0401,0401,high,high,TRUE,TRUE,TRUE,FALSE
+A403,"4501 - Aboriginal and Torres Strait Islander Culture, Language and History",3,1904,1904,high,high,TRUE,TRUE,TRUE,FALSE
+A404,4004 - Chemical Engineering,2,0904,0904,high,high,TRUE,TRUE,TRUE,FALSE
+A405,3402 - Inorganic Chemistry,2,0302,0302,high,high,TRUE,TRUE,TRUE,FALSE
+A406,4605 - Data Management and Data Science,6,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A407,4405 - Gender Studies,2,2002,1699,high,high,TRUE,TRUE,FALSE,FALSE
+A408,4605 - Data Management and Data Science,6,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A409,"4501 - Aboriginal and Torres Strait Islander Culture, Language and History",3,1904,1904,high,medium,TRUE,TRUE,TRUE,FALSE
+A410,4605 - Data Management and Data Science,4,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A411,5202 - Biological Psychology,3,1109,1701,high,medium,TRUE,TRUE,FALSE,FALSE
+A412,3104 - Evolutionary Biology,2,0603,0603,high,high,TRUE,TRUE,TRUE,FALSE
+A413,4004 - Chemical Engineering,2,0904,0904,high,high,TRUE,TRUE,TRUE,FALSE
+A414,4605 - Data Management and Data Science,5,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A415,4101 - Climate Change Impacts and Adaptation,2,0501,0502,high,low,TRUE,TRUE,FALSE,FALSE
+A416,4605 - Data Management and Data Science,5,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A417,"3902 - Education Policy, Sociology and Philosophy",2,1605,1605,high,high,TRUE,TRUE,TRUE,FALSE
+A418,3103 - Ecology,2,0603,0603,high,high,TRUE,TRUE,TRUE,FALSE
+A419,4701 - Communication and Media Studies,2,2001,2001,high,high,TRUE,TRUE,TRUE,FALSE
+A420,4012 - Fluid Mechanics and Thermal Engineering,2,0203,0203,high,medium,TRUE,TRUE,TRUE,FALSE
+A421,4604 - Cybersecurity and Privacy,4,0803,0803,high,high,TRUE,TRUE,TRUE,FALSE
+A422,3103 - Ecology,2,0602,0602,high,high,TRUE,TRUE,TRUE,FALSE
+A423,4101 - Climate Change Impacts and Adaptation,2,0502,0502,high,medium,TRUE,TRUE,TRUE,FALSE
+A424,5204 - Cognitive and Computational Psychology,2,1701,1701,high,medium,TRUE,TRUE,TRUE,FALSE
+A425,3701 - Atmospheric Sciences,2,0401,0399,high,high,TRUE,TRUE,FALSE,FALSE
+A426,4701 - Communication and Media Studies,2,1903,1903,high,high,TRUE,TRUE,TRUE,FALSE
+A427,4604 - Cybersecurity and Privacy,4,0803,0804,high,medium,TRUE,TRUE,FALSE,FALSE
+A428,4802 - Environmental and Resources Law,2,1801,1801,high,high,TRUE,TRUE,TRUE,FALSE
+A429,4604 - Cybersecurity and Privacy,4,0803,0803,high,high,TRUE,TRUE,TRUE,FALSE
+A430,3403 - Macromolecular and Materials Chemistry,2,0303,0303,high,high,TRUE,TRUE,TRUE,FALSE
+A431,4605 - Data Management and Data Science,5,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A432,4012 - Fluid Mechanics and Thermal Engineering,2,0901,0915,high,medium,TRUE,TRUE,FALSE,FALSE
+A433,5202 - Biological Psychology,3,1109,1109,high,high,TRUE,TRUE,TRUE,FALSE
+A434,3103 - Ecology,2,0603,0603,high,low,TRUE,TRUE,TRUE,FALSE
+A435,5204 - Cognitive and Computational Psychology,3,1702,1701,high,medium,TRUE,TRUE,FALSE,FALSE
+A436,4605 - Data Management and Data Science,3,0801,0801,high,high,TRUE,TRUE,TRUE,FALSE
+A437,3001 - Agricultural Biotechnology,2,1001,1001,high,high,TRUE,TRUE,TRUE,FALSE
+A438,5202 - Biological Psychology,3,1109,1701,high,medium,TRUE,TRUE,FALSE,FALSE
+A439,3403 - Macromolecular and Materials Chemistry,2,0302,0303,high,high,TRUE,TRUE,FALSE,FALSE
+A440,4605 - Data Management and Data Science,3,0801,0801,high,high,TRUE,TRUE,TRUE,TRUE
+A441,5204 - Cognitive and Computational Psychology,3,1702,1702,high,high,TRUE,TRUE,TRUE,FALSE
+A442,5202 - Biological Psychology,3,1109,1702,high,medium,TRUE,TRUE,FALSE,FALSE
+A443,4611 - Machine Learning,3,0801,1702,high,high,TRUE,TRUE,FALSE,FALSE
+A444,5204 - Cognitive and Computational Psychology,2,1701,1701,high,high,TRUE,TRUE,TRUE,FALSE
+A445,3403 - Macromolecular and Materials Chemistry,2,0303,0303,high,high,TRUE,TRUE,TRUE,FALSE
+A446,3403 - Macromolecular and Materials Chemistry,2,0302,0303,high,high,TRUE,TRUE,FALSE,FALSE
+A447,3104 - Evolutionary Biology,2,0603,0603,high,medium,TRUE,TRUE,TRUE,FALSE
+A448,3403 - Macromolecular and Materials Chemistry,2,0303,0303,high,high,TRUE,TRUE,TRUE,FALSE
+A449,"3902 - Education Policy, Sociology and Philosophy",2,1605,1605,high,high,TRUE,TRUE,TRUE,FALSE
+A450,4605 - Data Management and Data Science,5,0802,0806,high,high,TRUE,TRUE,FALSE,FALSE
+A451,4004 - Chemical Engineering,2,0904,0904,high,high,TRUE,TRUE,TRUE,FALSE
+A452,3403 - Macromolecular and Materials Chemistry,2,0303,0303,high,high,TRUE,TRUE,TRUE,FALSE
+A453,4604 - Cybersecurity and Privacy,4,0803,0803,high,high,TRUE,TRUE,TRUE,FALSE
+A454,4206 - Public Health,2,1603,1117,high,medium,TRUE,TRUE,FALSE,FALSE
+A455,4004 - Chemical Engineering,2,0904,0904,high,high,TRUE,TRUE,TRUE,FALSE
+A456,4006 - Communications Engineering,2,1005,1005,high,high,TRUE,TRUE,TRUE,FALSE
+A457,4303 - Historical Studies,2,2103,2103,high,high,TRUE,TRUE,TRUE,FALSE
+A458,3103 - Ecology,2,0603,0603,high,high,TRUE,TRUE,TRUE,FALSE
+A459,4608 - Human-Centred Computing,2,0801,0806,high,medium,TRUE,TRUE,FALSE,FALSE
+A460,4702 - Cultural Studies,2,1605,1605,high,medium,TRUE,TRUE,TRUE,FALSE
+A461,"4501 - Aboriginal and Torres Strait Islander Culture, Language and History",2,2103,2102,high,high,TRUE,TRUE,FALSE,FALSE
+A462,"4501 - Aboriginal and Torres Strait Islander Culture, Language and History",4,2002,2102,high,high,TRUE,TRUE,FALSE,FALSE
+A463,5204 - Cognitive and Computational Psychology,3,1702,1702,high,high,TRUE,TRUE,TRUE,FALSE
+A464,4012 - Fluid Mechanics and Thermal Engineering,2,0203,0915,high,high,TRUE,TRUE,FALSE,FALSE
+A465,"4501 - Aboriginal and Torres Strait Islander Culture, Language and History",2,2103,2103,high,high,TRUE,TRUE,TRUE,FALSE
+A466,4605 - Data Management and Data Science,3,0804,0804,high,high,TRUE,TRUE,TRUE,FALSE
+A467,4604 - Cybersecurity and Privacy,4,0803,0803,high,high,TRUE,TRUE,TRUE,FALSE
+A468,3406 - Physical Chemistry,2,0306,0306,high,high,TRUE,TRUE,TRUE,FALSE
+A469,4004 - Chemical Engineering,2,0904,0904,high,high,TRUE,TRUE,TRUE,FALSE
+A470,4611 - Machine Learning,2,0801,1702,high,high,TRUE,TRUE,FALSE,FALSE
+A471,5204 - Cognitive and Computational Psychology,2,1701,1701,high,high,TRUE,TRUE,TRUE,FALSE
+A472,4605 - Data Management and Data Science,5,0806,0806,high,high,TRUE,TRUE,TRUE,FALSE
+A473,5003 - Philosophy,2,2202,2202,high,high,TRUE,TRUE,TRUE,FALSE
+A474,3402 - Inorganic Chemistry,2,0399,0399,high,high,TRUE,TRUE,TRUE,FALSE
+A475,3403 - Macromolecular and Materials Chemistry,2,0303,0303,high,high,TRUE,TRUE,TRUE,FALSE
+A476,3403 - Macromolecular and Materials Chemistry,2,0303,0303,high,high,TRUE,TRUE,TRUE,FALSE
+A477,4605 - Data Management and Data Science,3,0801,0801,high,medium,TRUE,TRUE,TRUE,FALSE
+A478,5204 - Cognitive and Computational Psychology,2,1702,1702,high,high,TRUE,TRUE,TRUE,FALSE
+A479,3402 - Inorganic Chemistry,2,0399,0399,high,high,TRUE,TRUE,TRUE,FALSE
+A480,5204 - Cognitive and Computational Psychology,3,1702,1702,high,high,TRUE,TRUE,TRUE,FALSE
+A481,4012 - Fluid Mechanics and Thermal Engineering,2,0203,0203,high,medium,TRUE,TRUE,TRUE,FALSE
+A482,3403 - Macromolecular and Materials Chemistry,2,0303,0303,high,medium,TRUE,TRUE,TRUE,FALSE
+A483,"4501 - Aboriginal and Torres Strait Islander Culture, Language and History",3,2103,2103,high,high,TRUE,TRUE,TRUE,FALSE
+A484,5204 - Cognitive and Computational Psychology,3,1701,1701,high,medium,TRUE,TRUE,TRUE,FALSE
+A485,"4009 - Electronics, Sensors and Digital Hardware",2,0206,0206,high,medium,TRUE,TRUE,TRUE,FALSE
+A486,3402 - Inorganic Chemistry,2,0302,0302,high,medium,TRUE,TRUE,TRUE,FALSE
+A487,4701 - Communication and Media Studies,2,2001,2001,high,medium,TRUE,TRUE,TRUE,FALSE

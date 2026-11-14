@@ -8,3 +8,5 @@ Requires R ≥ 4.1, tidyverse and readxl.
 **Result (n = 485):** agreement 76.9%; Cohen's kappa 0.76 (95% CI 0.72–0.80); adjusted kappa, which allows for each project having only 2–6 candidate groups, 0.60 (0.53–0.66).
 Agreement is 88% when both coders were highly confident and 61% otherwise.
 See `output/` for tables and the figure.
+
+![](output/fig1_agreement_by_group.png)

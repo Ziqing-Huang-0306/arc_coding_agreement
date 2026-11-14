@@ -25,14 +25,6 @@ if(!file.exists("data/for20_projects.csv")){
 for20_projects <- read_csv("data/for20_projects.csv", col_types = cols(.default = col_character()))
 stopifnot(nrow(for20_projects) == 4658)
 
-# =============================================================
-# 00_crosswalk.R  Identify FoR2020 projects whose FoR2008 group is ambiguous
-# Input : data/anzsrc2020_anzsrc2008_correspondences.xlsx (official ABS crosswalk)
-#         data/for20_projects.csv (from 00_extract.R)
-#         data/step3_item_key.csv (item ID <-> project code)
-# Output: output/crosswalk_status.csv (one row = one project; 4,658 rows)
-# =============================================================
-
 for_crosswalk <- read_excel("data/anzsrc2020_anzsrc2008_correspondences.xlsx", sheet = "2020 FoR - 2008 FoR", col_names = FALSE, col_types = "text") |>
   select(1:5) |>
   set_names(c("c20", "n20", "c08", "partial", "n08")) |>

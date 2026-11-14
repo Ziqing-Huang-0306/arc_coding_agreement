@@ -1,3 +1,6 @@
+library(tidyverse)
+library(ggplot2)
+
 table2 <- read_csv("output/table2_groups.csv")
 
 overall <- read_csv("output/table1_overall.csv") |>
